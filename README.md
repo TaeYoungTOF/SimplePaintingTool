@@ -5,3 +5,7 @@
 [+]버튼과 [-]버튼을 통해 붓의 두께를 조정할 수 있습니다.
 
 [Esc] 버튼을 통해 창을 종료할 수 있습니다.
+
+Example
+
+<img width="100%" src="https://user-images.githubusercontent.com/113530625/225640103-81d52fff-d4a5-4c5c-92fe-3a43cc03e84c.gif"/>
